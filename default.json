@@ -1,0 +1,55 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 2,
+            "HideIcon": true,
+            "HideIconAfter": 120,
+            "IconURL": "https://i.imgur.com/3yWvZA3.png",
+            "DisableIconText": false,
+            "IconPosition": 2,
+            "IconTextColor": 2,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 10
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bienvenue",
+                    "title1": "Bienvenue [AKT] Ark Knight Time",
+                    "text1": "Bienvenue a toi survivant.\n\nVoici comment le serveur et régler chez nous :\n\n-Expérience: X1\n\n-Taming: X10\n\n-Gestation & incubation: X50\n\n-Maturation: X90\n\n-Récolte des ressources: X3\n\n-Récolte avec dino: X6\n\n-Niveau maximum des dinos sauvages: LEVEL 300\n\n-Serveur PVE\n\n-Serveur Optimisé Crossplay\n\n-Un Shop",
+                    "imageurl": "https://i.imgur.com/Bo8jLSk.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Réglement!!!</>",
+                    "title1": "Réglement!!!",
+                    "text1": "REGLE GENERAL\n\n-CE QUI EST INTERDIT:\n\n-Les propos et comportements injurieux\n\n-Les logiciels tiers pour tricher\n\n-La publicité ou le spam\n\n-IL EST AUSSI INTERDIT DE:\n\n-Se faire passer pour un administrateur.\n\n-Enfermer ou noyer les joueurs déconnectés.\n\n-Déplacer les dinos et/ou joueurs d’autres tribus.\n\n-Ninja Loot, le premier joueur présent sur un loot en récupère le contenu (s’applique également sur les boss et artefacts).\n\n-IL EST FORMELLEMENT INTERDIT de récupérer quoi que ce soit d’une tribu ne vous appartenant pas sans l’accord du propriétaire !\n\n-Nous sommes une communauté PVE basée sur le FairPlay et la convivialité .\n\n-STRUCTURE ET RESSOURCE\n\n-1 Base principale :\n\n-Veillez à ne pas construire d’enclos démesuré.\n\n-Vous avez droit à un avant poste de la taille 8/ 8/ 12 (l Lh) avec 1 Shield tek maximum .\n\n-Interdiction de bloquer l’accès aux grottes, obélisques, plages, notes et ressources.\n\n-EMPLACEMENT INTERDIT\n\n-Il est interdit de construire dans et/ou sur :\n\n-Les spawns de ressources (métal, cristal, obsidienne, pingouins, nids à castor, …\n\n-Les grottes à artefacts et sous-marines.\n\n-L’île des carnivores et le Volcan(The Island).Ou tout autre point de spawn de ressource stratégique.\n\n-Votre nom de joueur doit étre le même que sur discord.",
+                    "title2": "Discord",
+                    "text2": "Vous êtes la bienvenue dessus.\n\n-Sur notre discord voici se que vous y trouverais:\n\n-Les événements\n\n-Vous pourrais y trouver des canaux vocaux privée.\n\n-L'état des serveurs.\n\n-Les annonces et patch du jeux.\n\n-Nous contacter.\n\n-Bien sur notre communauté",
+                    "imageurl": "https://i.imgur.com/Bo8jLSk.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Shop",
+                    "title1": "Shop",
+                    "text1": "-Comment utilisé le Shop.\n\n-Pour joueur PC appuyer sur la touche F1.\n\n-Pour les joueur console ouvrer le radial menu et sélectionné SHOP.\n\n-Vous cumulé des point pendant que vous jouer, il vous seras attribué 15 points toute les 15 min.\n\n-Si vous le souhaité vous pouvez utilisé le shop pour vendre vos dino en les vendant contre des points au autre joueur.\n\n-Pour échanger des points, sélectionné trading et noté le nombre de point souhaité que vous souhaité donné au joueur, ensuite appuyer sur la flèche verte a coté du pseudo du joueur .",
+                    "imageurl": "https://i.imgur.com/Bo8jLSk.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/EFXcDc2p4n"
+                }
+            }
+        ]
+    }
+}
