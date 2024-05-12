@@ -10,7 +10,7 @@
             "IconTextColor": 2,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
-            "UpdateInterval": 10
+            "UpdateInterval": 5
         },
         "tabs": [
             {
@@ -48,6 +48,24 @@
                 "link1": {
                     "text": "Discord",
                     "url": "https://discord.gg/EFXcDc2p4n"
+               }
+             },
+         {
+                "link2": {
+                   "text": "Faire un dons",
+                   "url": "https://www.paypal.com/paypalme/danylenormand"
+               }
+             },
+         {
+                "link3": {
+                   "text": "Facebook",
+                   "url": "https://m.facebook.com/groups/3568518280087250/?ref=share"
+                }
+              },
+          {
+                "link4": {
+                   "text": "Vote Serveur",
+                   "url": "https://top-serveurs.net/arksa/vote/fr-akt-ark-knight-time-pve"
                 }
             }
         ]
