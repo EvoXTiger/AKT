@@ -1,110 +1,74 @@
-	
-	{
-	"ServerName":"AKT Evolved",
-	"ButtonTxt1":"Réglement",
-	"ButtonTxt2":"",
-	"ButtonTxt3":"",
-	"ButtonTxt4":"",
-	"ButtonTxt5":"",
-	"LinkButtonTxt1":"Discord",
-	"LinkButtonTxt2":"",
-	"LinkButtonTxt3":"",
-	"LinkButtonTxt4":"",
-	"LinkButtonTxt5":"",
-	"LinkButton1":"https://discord.gg/bqNw8E4R88",
-	"LinkButton2":"",
-	"Link1Button3":"",
-	"Link2Button3":"",
-	"Link3Button3":"",
-	"Link4Button3":"",
-	"Link1Button4":"",
-	"Link2Button4":"",
-	"Link3Button4":"",
-	"Link4Button4":"",
-	"Link1Button5":"",
-	"Link2Button5":"",
-	"Link3Button5":"",
-	"Link4Button5":"",
-	"Tab1Panelcount":1,
-	"Tab2Panelcount":1,
-	"Tab3Panelcount":1,
-	"Tab4Panelcount":1,
-	"Tab5Panelcount":1,
-	"BackgroundTab1":13,
-	"BackgroundTab2":0,
-	"BackgroundTab3":0,
-	"BackgroundTab4":0,
-	"BackgroundTab5":0,
-	"Background3Color":"",
-	"FontColorButtons":"",
-	"FontColorServerName":"",
-	"FontColorTabTitles":"",
-	"FontColorTabText":"",
-	"UseSteamBrowserLink1":false,
-	"UseSteamBrowserLink2":false,
-	"Tab1Title1":"Réglement",
-	"Tab1Title2":"",
-	"Tab1Title3":"",
-	"Tab2Title1":"",
-	"Tab2Title2":"",
-	"Tab2Title3":"",
-	"Tab3Title1":"",
-	"Tab3Title2":"",
-	"Tab3Title3":"",
-	"Tab4Title1":"",
-	"Tab4Title2":"",
-	"Tab4Title3":"",
-	"Tab5Title1":"",
-	"Tab5Title2":"",
-	"Tab5Title3":"",
-	"Tab1Text1":" Bonjour et Bienvenue sur le serveur AKT Ark Knight Time.
-
-(REGLE GENERAL)
-
--Ce qui est Interdits  :
- -Les propos et comportements injurieux
- -Les logiciels tiers pour tricher
- -La publicité ou le spam
- -De faire du commerce sur le Discord, ingame uniquement
-
-Il est aussi interdit de :
-Se faire passer pour un administrateur.
-Enfermer ou noyer les joueurs déconnectés.
-Déplacer les dinos et/ou joueurs d’autres tribus.
-( Ninja Loot ), le premier joueur présent sur un loot en récupère le contenu (s’applique également sur les boss et artefacts).
-
-IL EST FORMELLEMENT INTERDIT de récupérer quoi que ce soit d’une tribu ne vous appartenant pas sans l’accord du propriétaire !
--Nous sommes une communauté PVE basée sur le FairPlay et la convivialité .
-
-(STRUCTURE ET RESSOURCE)
-
- 
-1 Base principale :
-Veillez à ne pas construire d’enclos démesuré. 
-Base et enclos doivent faire maximum (80 fondation) en largeur .
-Interdiction de bloquer l’accès aux grottes, obélisques, plages, notes et ressources.
-
-(EMPLACEMENT INTERDIT )
-
-Il est interdit de construire dans et/ou sur :
-Les spawns de ressources (métal, cristal, obsidienne, pingouins, nids à castor, …)
-Les grottes à artefacts et sous-marines.
-L’île des carnivores et le Volcan (The Island).
-
-   Ou tout autre point de spawn de ressource stratégique.
- -Votre nom de joueur doit étre le même que sur discord.",
-	"Tab1Text2":"",
-	"Tab1Text3":"",
-	"Tab2Text1":"",
-	"Tab2Text2":"",
-	"Tab2Text3":"",
-	"Tab3Text1":"",
-	"Tab3Text2":"",
-	"Tab3Text3":"",
-	"Tab4Text1":"",
-	"Tab4Text2":"",
-	"Tab4Text3":"",
-	"Tab5Text1":"",
-	"Tab5Text2":"",
-	"Tab5Text3":""
-	}
+{
+    "ServerName": "AKT Evolved",
+    "ButtonTxt1": "Réglement",
+    "ButtonTxt2": "",
+    "ButtonTxt3": "",
+    "ButtonTxt4": "",
+    "ButtonTxt5": "",
+    "LinkButtonTxt1": "Discord",
+    "LinkButtonTxt2": "",
+    "LinkButtonTxt3": "",
+    "LinkButtonTxt4": "",
+    "LinkButtonTxt5": "",
+    "LinkButton1": "https://discord.gg/bqNw8E4R88",
+    "LinkButton2": "",
+    "Link1Button3": "",
+    "Link2Button3": "",
+    "Link3Button3": "",
+    "Link4Button3": "",
+    "Link1Button4": "",
+    "Link2Button4": "",
+    "Link3Button4": "",
+    "Link4Button4": "",
+    "Link1Button5": "",
+    "Link2Button5": "",
+    "Link3Button5": "",
+    "Link4Button5": "",
+    "Tab1Panelcount": 1,
+    "Tab2Panelcount": 1,
+    "Tab3Panelcount": 1,
+    "Tab4Panelcount": 1,
+    "Tab5Panelcount": 1,
+    "BackgroundTab1": 13,
+    "BackgroundTab2": 0,
+    "BackgroundTab3": 0,
+    "BackgroundTab4": 0,
+    "BackgroundTab5": 0,
+    "Background3Color": "",
+    "FontColorButtons": "",
+    "FontColorServerName": "",
+    "FontColorTabTitles": "",
+    "FontColorTabText": "",
+    "UseSteamBrowserLink1": false,
+    "UseSteamBrowserLink2": false,
+    "Tab1Title1": "Réglement",
+    "Tab1Title2": "",
+    "Tab1Title3": "",
+    "Tab2Title1": "",
+    "Tab2Title2": "",
+    "Tab2Title3": "",
+    "Tab3Title1": "",
+    "Tab3Title2": "",
+    "Tab3Title3": "",
+    "Tab4Title1": "",
+    "Tab4Title2": "",
+    "Tab4Title3": "",
+    "Tab5Title1": "",
+    "Tab5Title2": "",
+    "Tab5Title3": "",
+    "Tab1Text1": "REGLE GENERAL\n\n-CE QUI EST INTERDIT:\n\n-Les propos et comportements injurieux\n\n-Les logiciels tiers pour tricher\n\n-La publicité ou le spam\n\n-IL EST AUSSI INTERDIT DE:\n\n-Se faire passer pour un administrateur.\n\n-Enfermer ou noyer les joueurs déconnectés.\n\n-Déplacer les dinos et/ou joueurs d’autres tribus.\n\n-Ninja Loot, le premier joueur présent sur un loot en récupère le contenu (s’applique également sur les boss et artefacts).\n\n-IL EST FORMELLEMENT INTERDIT de récupérer quoi que ce soit d’une tribu ne vous appartenant pas sans l’accord du propriétaire !\n\n-Nous sommes une communauté PVE basée sur le FairPlay et la convivialité .\n\n-STRUCTURE ET RESSOURCE\n\n-1 Base principale :\n\n-Veillez à ne pas construire d’enclos démesuré.\n\n-Vous avez droit à un avant poste de la taille 8/ 8/ 12 (l Lh) avec 1 Shield tek maximum .\n\n-Interdiction de bloquer l’accès aux grottes, obélisques, plages, notes et ressources.\n\n-EMPLACEMENT INTERDIT\n\n-Il est interdit de construire dans et/ou sur :\n\n-Les spawns de ressources (métal, cristal, obsidienne, pingouins, nids à castor, …\n\n-Les grottes à artefacts et sous-marines.\n\n-L’île des carnivores et le Volcan(The Island).Ou tout autre point de spawn de ressource stratégique.\n\n-Votre nom de joueur doit étre le même que sur discord.",
+    "Tab1Text2": "",
+    "Tab1Text3": "",
+    "Tab2Text1": "",
+    "Tab2Text2": "",
+    "Tab2Text3": "",
+    "Tab3Text1": "",
+    "Tab3Text2": "",
+    "Tab3Text3": "",
+    "Tab4Text1": "",
+    "Tab4Text2": "",
+    "Tab4Text3": "",
+    "Tab5Text1": "",
+    "Tab5Text2": "",
+    "Tab5Text3": ""
+}
