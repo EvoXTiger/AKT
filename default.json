@@ -3,14 +3,14 @@
         "settings": {
             "OpenButton": 2,
             "HideIcon": true,
-            "HideIconAfter": 120,
+            "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/3yWvZA3.png",
             "DisableIconText": false,
             "IconPosition": 2,
             "IconTextColor": 2,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 5
+            "UpdateInterval": 12
         },
         "tabs": [
             {
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Bienvenue",
                     "title1": "Bienvenue [AKT] Ark Knight Time",
-                    "text1": "Bienvenue a toi survivant.\n\nVoici comment le serveur et régler chez nous :\n\n-Expérience: X1\n\n-Taming: X5\n\n-Gestation & incubation: X50\n\n-Maturation: X50\n\n-Récolte des ressources: X3\n\n-Niveau maximum des dinos sauvages: Level 150\n\n-Serveur PVE\n\n-Serveur Optimisé Crossplay\n\n-AKT Store",
+                    "text1": "Bienvenue a toi survivant.\n\nVoici comment le serveur et régler chez nous :\n\n-Expérience: X1\n\n-Taming: X5\n\n-Gestation & incubation: X50\n\n-Maturation: X60\n\n-Récolte des ressources: X3\n\n-Niveau maximum des dinos sauvages: Level 150\n\n-Serveur PVE\n\n-Serveur Optimisé Crossplay\n\n-AKT Store",
                     "imageurl": "https://i.imgur.com/Bo8jLSk.png"
                 }
             },
@@ -38,7 +38,7 @@
                     "layout": 1,
                     "buttontext": "AKT Store",
                     "title1": "AKT Store",
-                    "text1": "-COMMENT UTILISER AKT STORE.\n\n-Pour les joueurs PC appuyer sur la touche F1.\n\n-Pour les joueur console il vous suffi d'aller sur discord.\n\n-Il vous seras attribué 5 points toute les 15 min.\n\n-Si vous le souhaitez, vous pouvez utiliser le shop pour vendre vos dinosaures en les échangeant contre des points auprès d'autres joueurs.\n\n-Pour échanger des points, sélectionnez l'option Trading et indiquez le nombre de points que vous souhaitez donner au joueur.\n Ensuite, appuyez sur la flèche verte à côté du pseudo du joueur.\n\n-Vous pouvez nous soutenir en acquérant différents rangs sur l'AKT Store.\n Il vous suffit de mettre le jeu en pause et de cliquer sur le bouton AKT Store.\n\n Voici les rangs disponibles, qui vous permettront de gagner plus de points :\n\n-Bronze= 10 point toute les 15 min.\n\n-Silver= 15 point toute les 15 min.\n\n-Or= 25 point toute les 15 min.\n\n-Diamant= 50 point toute les 15 min ",
+                    "text1": "-COMMENT UTILISER AKT STORE.\n\n-Pour les joueurs PC appuyer sur la touche F1.\n\n-Pour recuperer un kit aller dans recuperer sur le shop, un starter kit vous attend.\n\n-Pour les joueur console il vous suffi d'aller sur discord.\n\n-Il vous seras attribué 5 points toute les 15 min.\n\n-Si vous le souhaitez, vous pouvez utiliser le shop pour vendre vos dinosaures en les échangeant contre des points auprès d'autres joueurs.\n\n-Pour échanger des points, sélectionnez l'option Trading et indiquez le nombre de points que vous souhaitez donner au joueur.\n Ensuite, appuyez sur la flèche verte à côté du pseudo du joueur.\n\n-Vous pouvez nous soutenir en acquérant différents rangs sur l'AKT Store.\n Il vous suffit de mettre le jeu en pause et de cliquer sur le bouton AKT Store.\n\n Voici les rangs disponibles, qui vous permettront de gagner plus de points :\n\n-Bronze= 10 point toute les 15 min.\n\n-Silver= 15 point toute les 15 min.\n\n-Or= 25 point toute les 15 min.\n\n-Diamant= 50 point toute les 15 min ",
                     "imageurl": "https://i.imgur.com/Bo8jLSk.png"
                 }
             }
