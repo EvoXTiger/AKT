@@ -38,7 +38,7 @@
                     "layout": 1,
                     "buttontext": "AKT Store",
                     "title1": "AKT Store",
-                    "text1": "-COMMENT UTILISER AKT STORE.\n\n-Pour les joueurs PC appuyer sur la touche F1.\n\n-Pour recuperer un kit aller dans recuperer sur le shop, un starter kit vous attend.\n\n-Pour les joueur console il vous suffi d'aller sur discord.\n\n-Il vous seras attribué 5 points toute les 15 min.\n\n-Si vous le souhaitez, vous pouvez utiliser le shop pour vendre vos dinosaures en les échangeant contre des points auprès d'autres joueurs.\n\n-Pour échanger des points, sélectionnez l'option Trading et indiquez le nombre de points que vous souhaitez donner au joueur.\n Ensuite, appuyez sur la flèche verte à côté du pseudo du joueur.\n\n-Vous pouvez nous soutenir en acquérant différents rangs sur l'AKT Store.\n Il vous suffit de mettre le jeu en pause et de cliquer sur le bouton AKT Store.\n\n Voici les rangs disponibles, qui vous permettront de gagner plus de points :\n\n-Bronze= 10 point toute les 15 min.\n\n-Silver= 15 point toute les 15 min.\n\n-Or= 25 point toute les 15 min.\n\n-Diamant= 50 point toute les 15 min ",
+                    "text1": "-COMMENT UTILISER AKT STORE.\n\n-Pour les joueurs PC appuyer sur la touche F1.\n\n-Pour recuperer Starter Kit, il vous suffit de cliquer sur CLAIM.\n\n-Ouvrir le shop sur Console:Il vous suffi d'appuyer simultanément sur les touche L1 + L3 sur Playstation et LB + joystick gauche sur XBOX.\n\n-Il vous seras attribué 5 points toute les 15 min.\n\n-Si vous le souhaitez, vous pouvez utiliser le shop pour echanger vos dinosaures contre des points auprès d'autres joueurs.\n\n-Pour échanger des points avec un autre joueur, tapez dans le tchat :/trade 'NomDuJoueur' <Quantités de points> .\n\n-Vous pouvez nous soutenir en acquérant différents rangs sur l'AKT Store.\n Il vous suffit de mettre le jeu en pause et de cliquer sur le bouton AKT Store.\n\n Voici les rangs disponibles, qui vous permettront de gagner plus de points :\n\n-Bronze= 10 points toutes les 15 min.\n\n-Silver= 15 points toutes les 15 min.\n\n-Or= 25 points toutes les 15 min.\n\n-Diamant= 50 points toutes les 15 min. ",
                     "imageurl": "https://i.imgur.com/Bo8jLSk.png"
                 }
             }
@@ -59,9 +59,10 @@
           {
                 "link3": {
                    "text": "Vote Serveur",
-                   "url": "https://top-serveurs.net/arksa/vote/fr-akt-ark-knight-time-pve"
+                   "url": "https://top-serveurs.net/arksa/vote/fr-exogen-akt-serveur-pve"
                 }
             }
         ]
     }
 }
+
