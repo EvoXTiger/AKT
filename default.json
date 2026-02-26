@@ -4,7 +4,7 @@
             "OpenButton": 2,
             "HideIcon": true,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/1GKLXG3.png",
+            "IconURL": "https://i.imgur.com/QO8xDTW.png",
             "DisableIconText": false,
             "IconPosition": 2,
             "IconTextColor": 2,
@@ -65,5 +65,6 @@
         ]
     }
 }
+
 
 
